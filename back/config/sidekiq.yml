@@ -1,0 +1,6 @@
+---
+:verbose: false
+:concurrency: 100
+
+:queues:
+  - default
